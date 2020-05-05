@@ -90,4 +90,4 @@ Use to protect something ...
 		} );
 ```
 
-#### Author: [Cleave Pokotea](http://www.tumunu.com)
+#### Author: [Dupes](http://dupesnduds.com)
